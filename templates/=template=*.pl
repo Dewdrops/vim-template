@@ -1,16 +1,8 @@
 #! /usr/bin/env perl
-#
-# Short description for %FFILE%
-#
-# Author %USER% <%MAIL%>
-# Version 0.1
-# Copyright (C) %YEAR% %USER% <%MAIL%>
-# Modified On %FDATE%
-# Created  %FDATE%
-#
 use strict;
 use warnings;
-
-
+use 5.010001;
+use utf8;
+use autodie;
 
 %HERE%
